@@ -5,7 +5,7 @@
  
 # Ryan Zhou
  
-*Full-Stack | Systems | Machine Learning*
+*Full-Stack | Systems | ML*
  
 <br />
  
