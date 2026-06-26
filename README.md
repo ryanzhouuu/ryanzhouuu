@@ -5,8 +5,6 @@
  
 # Ryan Zhou
  
-*Full-Stack | Systems | ML*
- 
 <br />
  
 ---
@@ -15,7 +13,7 @@
  
 **contact**
  
-[github](https://github.com/ryanzhouuu) &nbsp;·&nbsp;
+[linkedin](https://linkedin.com/in/ryanzhouuu) &nbsp;·&nbsp;
 [website](https://ryanzhou.me) &nbsp;·&nbsp;
 [email](ryanzhouuu@gmail.com)
  
