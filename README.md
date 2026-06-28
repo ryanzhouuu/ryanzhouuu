@@ -1,15 +1,6 @@
 <div align="center">
  
-<br />
-<br />
- 
 # Ryan Zhou
- 
-<br />
- 
----
- 
-<br />
  
 **contact**
  
